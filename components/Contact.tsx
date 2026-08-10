@@ -17,7 +17,7 @@ export function Contact() {
             <div class="contact-info-block">
               <h4>Phone</h4>
               <p>
-                <a href="tel:+12465550365">(246) 234-9692</a>
+                <a href="tel:+12465550365">1 (246) 234-9692</a>
               </p>
             </div>
             {/* <div class="contact-info-block">
@@ -39,7 +39,7 @@ export function Contact() {
             </div>
           </div>
 
-          <div class="form-panel">
+          {/* <div class="form-panel">
             <form id="contactForm">
               <div class="form-row">
                 <div class="field">
@@ -97,7 +97,7 @@ export function Contact() {
                 emergency line.
               </p>
             </form>
-          </div>
+          </div> */}
         </div>
       </section>
     </>

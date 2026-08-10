@@ -1,4 +1,9 @@
-# Fresh project
+# Sidereal 365 Website
+
+Advertise our services. Taking a Claude Code generated website and converting it to run on 
+Fresh so that I can run it on Deno deploy.
+
+## Fresh project
 
 Your new Fresh project is ready to go. You can follow the Fresh "Getting
 Started" guide here: https://fresh.deno.dev/docs/getting-started

@@ -37,7 +37,8 @@ export function TeamMembers() {
             <div class="team-card">
               <div class="team-avatar">SL</div>
               <h3>Stevette Lopez</h3>
-              <span class="team-role">Fiber Splicing Lead</span>
+              {/* <span class="team-role">Fiber Splicing Lead</span> */}
+              <span class="team-role">Cabling Lead</span>
               <p>
                 Owns every termination, from backbone runs to
                 final testing.

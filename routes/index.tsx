@@ -1,4 +1,5 @@
 // import { Head } from "fresh/runtime";
+
 import { define } from "../utils.ts";
 import { Pricing } from "@/components/Pricing.tsx";
 import { TeamMembers } from "@/components/Team.tsx";
