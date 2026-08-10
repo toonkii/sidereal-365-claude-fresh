@@ -17,17 +17,17 @@ export function Contact() {
             <div class="contact-info-block">
               <h4>Phone</h4>
               <p>
-                <a href="tel:+12465550365">(246) 555-0365</a>
+                <a href="tel:+12465550365">(246) 234-9692</a>
               </p>
             </div>
-            <div class="contact-info-block">
+            {/* <div class="contact-info-block">
               <h4>Email</h4>
               <p>
-                <a href="mailto:hello@sidereal365.com">
-                  hello@sidereal365.com
+                <a href="mailto:thomas.clarke@sidereal365.com">
+                  thomas.clarke@sidereal365.com
                 </a>
               </p>
-            </div>
+            </div> */}
             <div class="contact-info-block">
               <h4>Hours</h4>
               <p>Mon–Fri, 7:00 AM – 6:00 PM</p>
