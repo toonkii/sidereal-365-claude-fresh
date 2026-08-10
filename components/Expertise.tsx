@@ -18,9 +18,9 @@ export function Expertise() {
                 passing inspection and staying reliable years later.
               </p>
               <div class="expertise-years">
-                <b>12+</b>
+                <b>60+</b>
                 <span>
-                  Years designing &amp; repairing commercial networks
+                  Combined years experience designing &amp; repairing commercial networks
                 </span>
               </div>
             </div>
@@ -32,14 +32,14 @@ export function Expertise() {
                   <polyline points="8.5 12 11 14.5 15.5 9.5" />
                 </svg>
                 <div>
-                  <h4>BICSI Certified Installers</h4>
+                  <h4>Certified Installers</h4>
                   <p>
                     Structured cabling design and installation held to industry
                     standard.
                   </p>
                 </div>
               </div>
-              <div class="credential-card">
+              {/* <div class="credential-card">
                 <svg class="credential-icon" viewBox="0 0 24 24">
                   <path d="M4 3h13l3 3v15H4z" />
                   <path d="M9 3v6h7V3" />
@@ -50,7 +50,7 @@ export function Expertise() {
                     Low-voltage licensing for every jurisdiction we operate in.
                   </p>
                 </div>
-              </div>
+              </div> */}
               <div class="credential-card">
                 <svg class="credential-icon" viewBox="0 0 24 24">
                   <circle cx="12" cy="12" r="3" />
@@ -78,7 +78,7 @@ export function Expertise() {
                   </p>
                 </div>
               </div>
-              <div class="credential-card">
+              {/* <div class="credential-card">
                 <svg class="credential-icon" viewBox="0 0 24 24">
                   <path d="M12 2l8 4v6c0 5-3.5 8.5-8 10-4.5-1.5-8-5-8-10V6z" />
                   <path d="M12 8v4l3 2" />
@@ -89,8 +89,8 @@ export function Expertise() {
                     Every field tech trained on active-jobsite safety protocol.
                   </p>
                 </div>
-              </div>
-              <div class="credential-card">
+              </div> */}
+              {/* <div class="credential-card">
                 <svg class="credential-icon" viewBox="0 0 24 24">
                   <path d="M3 12l3-3 4 4 8-8 3 3" />
                   <path d="M3 19h18" />
@@ -101,7 +101,7 @@ export function Expertise() {
                     $2M general liability coverage on every job we take on.
                   </p>
                 </div>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>
