@@ -39,6 +39,18 @@ export function Expertise() {
                   </p>
                 </div>
               </div>
+              <div class="credential-card">
+                <svg class="credential-icon" viewBox="0 0 24 24">
+                  <path d="M4 3h13l3 3v15H4z" />
+                  <path d="M9 3v6h7V3" />
+                </svg>
+                <div>
+                  <h4>Experienced In Software Development</h4>
+                  <p>
+                    Web applications, client server applications, scripting solutions.
+                  </p>
+                </div>
+              </div>
               {/* <div class="credential-card">
                 <svg class="credential-icon" viewBox="0 0 24 24">
                   <path d="M4 3h13l3 3v15H4z" />
